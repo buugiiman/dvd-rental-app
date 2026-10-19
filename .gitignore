@@ -6,4 +6,4 @@ venv/
 .DS_Store
 .idea/
 .vscode/
-data.csv
+sample_data.csv
